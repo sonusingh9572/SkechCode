@@ -1,0 +1,36 @@
+{
+  "allowed_channels": [
+    {
+      "name": "Android Bulb",
+      "channelId": "UC-GZ8r16b0uRarDFFUrrn0Q"
+    },
+    {
+      "name": "PG Dev - Sketchware Pro Tutorials",
+      "channelId": "UCZchgMRMeORE96VA6Yp7dkQ"
+    },
+    {
+      "name": "alex",
+      "channelId": "UCbtvdtxxcYQFVGPdVo0pmAQ"
+    },
+    {
+      "name": "sk app developer g",
+      "channelId": "UCso9pE_wx2YuOCelDnqg3ZQ"
+    },
+    {
+      "name": "DROID DEV COACH",
+      "channelId": "UCKYtpXyyumThbkfjkelwOcA"
+    },
+    {
+      "name": "DJ GAMING VIP",
+      "channelId": "UCKIELtkCrP8TcSGdeSVj1DQ"
+    },
+    {
+      "name": "Faster Software Developer",
+      "channelId": "UCTxVSQS5LOtDRRvRcd9L79A"
+    },
+    {
+      "name": "SKY",
+      "channelId": "UCpkUqtOiFw8cpDBAsbsKL5w"
+    }
+  ]
+}
